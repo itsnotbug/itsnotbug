@@ -7,7 +7,7 @@
 - 👨‍💻 Formerly a .NET Developer and Mobile Dev Bootcamp Graduate
 - 📱 Check out all my mobile app projects at [(https://github.com/itsnotbug)](https://github.com/itsnotbug)
 - 💬 Ask me about **Kotlin, Mapbox, Firebase, Retrofit,.NET and APIs**
-- 📫 How to reach me **bernadettedejesus99@gmail.com**
+- 📫 How to reach me **developer.bernadette@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
